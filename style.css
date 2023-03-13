@@ -5,3 +5,15 @@ h1 {
     text-align: center;
     padding: 1rem;
 }
+
+body {
+    background-color: gray;
+}
+
+h2 {
+    font-size: 2rem;
+    color: rgb(255, 80, 80);
+    font-family: cursive;
+    text-align: center;
+    padding: 1rem;
+}
