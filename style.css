@@ -17,3 +17,11 @@ h2 {
     text-align: center;
     padding: 1rem;
 }
+
+p {
+    font-size: 1rem;
+    color: rgb(255, 80, 80);
+    font-family: cursive;
+    text-align: center;
+    padding: 1rem;
+}
